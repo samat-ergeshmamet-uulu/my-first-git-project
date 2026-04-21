@@ -8,3 +8,10 @@ This project is a simple application to learn Git and deployment.
 git clone <repo-url>
 cd project
 
+
+## Project Structure
+
+- README.md
+- src/
+- config/
+
