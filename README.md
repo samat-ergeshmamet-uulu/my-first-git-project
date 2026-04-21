@@ -15,3 +15,8 @@ cd project
 - src/
 - config/
 
+## Project Goals
+
+- Learn Git basics
+- Practice version control
+- Understand deployment workflow
